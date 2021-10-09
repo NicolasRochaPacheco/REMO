@@ -1,0 +1,49 @@
+.home {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home-banner {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--color-yellow-bg);
+}
+
+.home-title {
+  font-size: 5vh;
+  flex-grow: 10;
+  padding-top: 15vh;
+  text-align: center;
+  font-family: 'Montserrat', Helvetica, sans-serif;
+}
+
+.home-contact {
+  gap: 0 1vh;
+  display: grid;
+  padding: 1vh 2vh;
+  grid-template-rows: 1fr 2fr;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.home-contact-title {
+  font-size: 2vh;
+  text-align: center;
+  grid-column: 1 / span 3;
+  color: var(--text-dark);
+  font-family: 'Montserrat', Helvetica, sans-serif;
+}
+
+.home-contact-bt {
+  padding: 0.5vh;
+  font-size: 4vh;
+  text-align: center;
+  align-self: center;
+  border-radius: 1vh;
+  background-color: var(--color-orange-90);
+}

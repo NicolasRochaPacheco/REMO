@@ -1,0 +1,23 @@
+
+:root {
+  --text-dark: #000000;
+  --text-light: #FFFFFF;
+
+  --color-yellow-95: #F2CA00;
+  --color-yellow-bg: #FFEE99;
+
+  --color-orange-90: #E68600;
+
+  --color-green-40: #1F6666;
+  --color-green-75: #39BFA9;
+  --color-green-90: #45E6CB;
+
+  --color-blue-60: #007F99;
+  --color-blue-80: #00AACC;
+}
+
+body {
+  width: 100%;
+  margin: 0px auto;
+}
+
