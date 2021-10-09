@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/REMO/static/css/main.c8250d7b.chunk.css",
+    "main.css": "/REMO/static/css/main.3c2e10b3.chunk.css",
     "main.js": "/REMO/static/js/main.cc4bf6f5.chunk.js",
     "main.js.map": "/REMO/static/js/main.cc4bf6f5.chunk.js.map",
     "runtime-main.js": "/REMO/static/js/runtime-main.bbb1277b.js",
@@ -8,14 +8,14 @@
     "static/js/2.2e7d6751.chunk.js": "/REMO/static/js/2.2e7d6751.chunk.js",
     "static/js/2.2e7d6751.chunk.js.map": "/REMO/static/js/2.2e7d6751.chunk.js.map",
     "index.html": "/REMO/index.html",
-    "static/css/main.c8250d7b.chunk.css.map": "/REMO/static/css/main.c8250d7b.chunk.css.map",
+    "static/css/main.3c2e10b3.chunk.css.map": "/REMO/static/css/main.3c2e10b3.chunk.css.map",
     "static/js/2.2e7d6751.chunk.js.LICENSE.txt": "/REMO/static/js/2.2e7d6751.chunk.js.LICENSE.txt",
     "static/media/logo_black.0e7e7d24.svg": "/REMO/static/media/logo_black.0e7e7d24.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bbb1277b.js",
     "static/js/2.2e7d6751.chunk.js",
-    "static/css/main.c8250d7b.chunk.css",
+    "static/css/main.3c2e10b3.chunk.css",
     "static/js/main.cc4bf6f5.chunk.js"
   ]
 }
