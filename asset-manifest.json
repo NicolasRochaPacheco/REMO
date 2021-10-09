@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/REMO/static/css/main.613a1896.chunk.css",
-    "main.js": "/REMO/static/js/main.2781f300.chunk.js",
-    "main.js.map": "/REMO/static/js/main.2781f300.chunk.js.map",
+    "main.css": "/REMO/static/css/main.9eadb900.chunk.css",
+    "main.js": "/REMO/static/js/main.a96f8141.chunk.js",
+    "main.js.map": "/REMO/static/js/main.a96f8141.chunk.js.map",
     "runtime-main.js": "/REMO/static/js/runtime-main.bbb1277b.js",
     "runtime-main.js.map": "/REMO/static/js/runtime-main.bbb1277b.js.map",
     "static/js/2.2e7d6751.chunk.js": "/REMO/static/js/2.2e7d6751.chunk.js",
     "static/js/2.2e7d6751.chunk.js.map": "/REMO/static/js/2.2e7d6751.chunk.js.map",
     "index.html": "/REMO/index.html",
-    "static/css/main.613a1896.chunk.css.map": "/REMO/static/css/main.613a1896.chunk.css.map",
-    "static/js/2.2e7d6751.chunk.js.LICENSE.txt": "/REMO/static/js/2.2e7d6751.chunk.js.LICENSE.txt"
+    "static/css/main.9eadb900.chunk.css.map": "/REMO/static/css/main.9eadb900.chunk.css.map",
+    "static/js/2.2e7d6751.chunk.js.LICENSE.txt": "/REMO/static/js/2.2e7d6751.chunk.js.LICENSE.txt",
+    "static/media/logo_white.0f3a06d5.svg": "/REMO/static/media/logo_white.0f3a06d5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bbb1277b.js",
     "static/js/2.2e7d6751.chunk.js",
-    "static/css/main.613a1896.chunk.css",
-    "static/js/main.2781f300.chunk.js"
+    "static/css/main.9eadb900.chunk.css",
+    "static/js/main.a96f8141.chunk.js"
   ]
 }
