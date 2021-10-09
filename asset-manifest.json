@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/REMO/static/css/main.613a1896.chunk.css",
-    "main.js": "/REMO/static/js/main.1489da4f.chunk.js",
-    "main.js.map": "/REMO/static/js/main.1489da4f.chunk.js.map",
+    "main.js": "/REMO/static/js/main.e706ca01.chunk.js",
+    "main.js.map": "/REMO/static/js/main.e706ca01.chunk.js.map",
     "runtime-main.js": "/REMO/static/js/runtime-main.bbb1277b.js",
     "runtime-main.js.map": "/REMO/static/js/runtime-main.bbb1277b.js.map",
     "static/js/2.33072bce.chunk.js": "/REMO/static/js/2.33072bce.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bbb1277b.js",
     "static/js/2.33072bce.chunk.js",
     "static/css/main.613a1896.chunk.css",
-    "static/js/main.1489da4f.chunk.js"
+    "static/js/main.e706ca01.chunk.js"
   ]
 }
